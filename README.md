@@ -27,7 +27,7 @@
   <!-- Text on the Left -->
   <div style="flex: 1; text-align: left;">
     <p>
-      Hey there! I'm Ather Ahmad, from India.<br><br>
+      <!-- Hey there! I'm Ather Ahmad, from India.<br><br> -->
       - 🔭 UG Student <br>
       - 💻 Web Development Enthusiast<br>
       - ⚡ Blending the art of editing.
